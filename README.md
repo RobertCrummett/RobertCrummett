@@ -1,8 +1,14 @@
-## About the working me
-I am a geoscientist who lives at the intersection of computer science, applied mathematics, and natural resource exploration techniques. I have a brief but lively background in drone geophysics, and have spent most of my field time performing potential field suverys. That being said, my interests go beyond Laplace's equation – I am fascinated by electomagnetic, radiometric, and various other remote sensing techniques.
+## About the professional me
+I am a geoscientist living at the intersection of applied mathematics, computer science, and natural resource exploration. I am passionate about potential field methods, drone geophysics, and computer software. I aspire to do exploration faster, deeper, and at a larger scale than has ever been done before.
+
+## My research
+I study under [Dr Yaoguo Li & Dr Mengli Zhang](https://cgem.mines.edu/faculty/) at the [Center of Gravity, Electrical, and Magnetic Studies](https://cgem.mines.edu/) at the Colorado School of Mines. My research is currently focused on regional-scale resource exploration.
 
 ## About me
-I am a crazy student from Nevada ⛰️🦂 who fell into the world of mineral exploration and absolutely loves it. Learning more about religion ⛪, compilers 👨🏻‍💻, and human beings 👯‍♂️ are my favorite topics. I spend my weekends in bible studies 📖, on my mountain bike 🚴🏻‍♂️, and in the lab 🧑🏻‍🔬 catching trying to keep up with research deadlines. I wouldn't trade my life for anything – I am blessed to have been placed into many positions of responsibility, high standards, and love ❤️.
+I am a young graduate student with a brief background in the world of drone geophysics. I am fascinated by religion, history, compilers, and the natural world. When I am not at a computer, I am usually a bible study, riding a gravel bike, or walking around campus. I like open-toed shoes, coffee, rap music, and a clean desk. 
 
-## Affiliations
-I am currently studying under Dr Yaoguo Li, and am funded by the Consorium of Gravity, Electric and Magenetic studies (CGEM) at the Colorado School of Mines. We seek to squeeze more information out of remote sensing methods than ever before, leveraging classic inversion, big data, and modern machine learning techniques.
+Where can you find me online?
+- [The Dojo](https://www.youtube.com/@thebibledojo/streams)
+- [The Assembly of the Firstborn](https://www.youtube.com/@assemblyofthefirstborn8360)
+- [Mr Blaktastic Channel](https://www.youtube.com/@Blaktastic)
+- [Bandcamp](https://bandcamp.com/nate_crummett)
