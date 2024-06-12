@@ -5,7 +5,7 @@ I am a geoscientist living at the intersection of applied mathematics, computer 
 I study under [Dr. Yaoguo Li & Dr. Mengli Zhang](https://cgem.mines.edu/faculty/) at the [Center of Gravity, Electrical, and Magnetic Studies](https://cgem.mines.edu/) at the Colorado School of Mines. My research is currently focused on regional-scale resource exploration.
 
 ## About me
-I am a young graduate student with a brief background in drone geophysics. I am fascinated by religion, history, compilers, and the natural world. When I am not at a computer, I am usually at bible study, riding a gravel bike, or walking around campus. I like open-toed shoes, Turkish coffee, shooting the shit, and my yoga ball.
+I am a young graduate student with a brief background in drone geophysics. I am fascinated by religion, history, compilers, and the natural world. When I am not at a computer, I am usually at bible study, riding a gravel bike, or walking around campus. I like open-toed shoes, Turkish coffee, shooting the shit, and rap music.
 
 Where can you find me online?
 - [The Bible Dojo](https://www.youtube.com/@thebibledojo/streams)
