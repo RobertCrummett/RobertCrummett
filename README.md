@@ -12,3 +12,4 @@ Where can you find me online?
 - [The Assembly of the Firstborn](https://www.youtube.com/@assemblyofthefirstborn8360)
 - [Mr Blaktastic Channel](https://www.youtube.com/@Blaktastic)
 - [Bandcamp](https://bandcamp.com/nate_crummett)
+- [LinkedIn](https://www.linkedin.com/in/robert-crummett/)
