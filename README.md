@@ -1,7 +1,7 @@
 ## About the professional me
 I am a geoscientist living at the intersection of applied mathematics, computer science, and natural resource exploration. I am passionate about potential field methods, drone geophysics, and computer software. I aspire to explore faster, deeper, and at a larger scale than ever before.
 
-![Picutre of Robert Crummett in the field a kilometer of 14 gauge wire on his shoulders, Summer 2023](https://media.licdn.com/dms/image/D5622AQHqZVfMGKg2jw/feedshare-shrink_800/0/1692452020537?e=1721260800&v=beta&t=lyLsh2wN2sjnA3f8C4SH6MDMU4-xu5WKP2mvN8Q2vzQ)
+![Picutre of Robert Crummett in the field a kilometer of 14 gauge wire on his shoulders, Summer 2023](68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4435363232415148715a56664d474b67326a772f6665656473686172652d736872696e6b5f3830302f302f313639323435323032303533373f653d3137323132363038303026763d6265746126743d6c794c7368327.jpeg)
 
 ## My research
 I study under [Dr. Yaoguo Li & Dr. Mengli Zhang](https://cgem.mines.edu/faculty/) at the [Center of Gravity, Electrical, and Magnetic Studies](https://cgem.mines.edu/) at the Colorado School of Mines. My research is currently focused on regional-scale resource exploration.
