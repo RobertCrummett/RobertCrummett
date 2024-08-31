@@ -7,6 +7,8 @@ I am a geoscientist living at the intersection of applied mathematics, computer 
 ## My research
 I study under [Dr. Yaoguo Li & Dr. Mengli Zhang](https://cgem.mines.edu/faculty/) in the [Center of Gravity, Electrical, and Magnetic Studies](https://cgem.mines.edu/) at the Colorado School of Mines. My research is currently focused on regional-scale resource exploration.
 
+![poster](https://github.com/user-attachments/assets/5d90899f-5442-412e-9e8f-4c17efa3f3e9)
+
 ![Center of Gravity, Electrical and Magnetic Studies group photo, Fall 2023](https://cgem.mines.edu/wp-content/uploads/sites/208/2023/11/group_2023.png)
 
 ## More about me
