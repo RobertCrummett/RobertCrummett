@@ -9,8 +9,6 @@ I study under [Dr. Yaoguo Li & Dr. Mengli Zhang](https://cgem.mines.edu/faculty/
 
 ![poster](https://github.com/user-attachments/assets/5d90899f-5442-412e-9e8f-4c17efa3f3e9)
 
-![Center of Gravity, Electrical and Magnetic Studies group photo, Fall 2023](https://cgem.mines.edu/wp-content/uploads/sites/208/2023/11/group_2023.png)
-
 ## More about me
 I am a young graduate student with a brief background in drone geophysics. I am fascinated by religion, history, computers, and the natural world. When I am not at a keyboard, I am usually at bible study, riding a gravel bike, or walking around campus. I like open-toed shoes, Turkish coffee, shooting the shit, and rap music.
 
