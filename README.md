@@ -5,8 +5,8 @@ I am a geoscientist pulling applied mathematics, drone geophysics, and potential
 to enable confident decision making in adverse conditions.
 My background in data collection enables me to understand the practical challenges of exploration
 and save you money where it matters.
-By translating cutting edge mathematics into tangible products, I am pushing qualitative and
-quantitative exploration deeper than ever before.
+I am pushing qualitative and quantitative exploration deeper than ever before
+by translating cutting edge mathematics into tangible products.
 
 ![LinkedIn picture](https://github.com/user-attachments/assets/33788eda-f233-4e2a-87c5-03ecbb1e49d4)
 
