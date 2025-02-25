@@ -1,0 +1,36 @@
+\input font_century
+\input enumerate
+
+\frenchspacing
+\footline{\tenrm\fontspacing Phone: 530--262--4702\hfill Email: robert\_crummett@mines.edu}
+
+% https://ctan.org/pkg/font-change
+\def\fontspacing{\baselineskip=2.8ex plus0pt minus0pt\spaceskip=0.333333em plus0.122222em minus0.0999999em}
+
+\twentyrm
+\fontspacing
+\noindent
+Robert~Nate~Crummett
+
+\kern2pt
+\hrule height 1pt
+\smallskip
+
+\eightrm
+\fontspacing
+\line{Geophysics PhD student at the Colorado~School~of~Mines focused on accelerating regional-scale mineral exploration techniques}
+\bigskip
+
+\setbox0=\hbox{\fourteenrm\fontspacing Experience}
+{\copy0}
+\kern-1.5pt
+\hrule width \wd0 height 0.8pt
+\smallskip
+
+\tenrm
+\fontspacing
+\beginenumerate
+	\item Hello
+	\item world
+\endenumerate
+\bye
