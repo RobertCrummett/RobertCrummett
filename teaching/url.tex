@@ -1,0 +1,38 @@
+%
+% https://stackoverflow.com/questions/71337509/clickable-links-in-plaintex-document
+%
+\newif\ifpdfmode
+\ifx\pdfoutput\undefined
+\else
+	\ifnum\pdfoutput>0 \pdfmodetrue\fi
+\fi
+%
+\def\url#1{%
+	\begingroup
+	\catcode`\~=12\relax%\catcode`\_=12\relax
+	\def\temp{#1}%
+	\ifpdfmode
+		\pdfstartlink user{
+			/Subtype /Link
+			/Border [ 0 0 0 ]
+			/A <<
+				/Type /Action
+				/S /URI
+				/URI (
+				\ifx\temp\expandafter\@emailtest\temp\relax
+					mailto:#1
+				\else
+					#1
+				\fi
+				)
+			>>
+		}%
+		{\tt#1}%
+		\pdfendlink{}%
+	\else
+		{\tt#1}%
+	\fi
+	\endgroup
+}
+%
+\def\@emailtest#1@#2\relax{\relax}

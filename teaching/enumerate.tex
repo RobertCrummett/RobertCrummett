@@ -1,0 +1,42 @@
+% https://tex.stackexchange.com/questions/79609/examples-of-list-macros-in-plain-tex
+\catcode`@=11
+\newcount\c@listlevel
+\newcount\c@item
+\newdimen\enumerateindent
+
+\def\init@str{}
+\def\beginenumerate{%
+	\begingroup
+	\let\item\enumerate@item
+	\advance\c@listlevel\@ne
+	\ifnum\c@listlevel=\@ne
+		\vskip.5\baselineskip
+	\fi
+	\ifnum\c@listlevel>\@ne
+		\edef\init@str{\init@str\number\c@item.}%
+	\fi
+	\c@item\z@
+}
+
+\def\endenumerate{%
+	\par\endgroup
+	\ifnum\c@listlevel=\z@
+		\vskip.5\baselineskip
+	\fi
+}
+
+\def\enumerate@item{%
+	\advance\c@item\@ne
+	\enumerateindent=\c@listlevel\parindent
+	\ifvmode\else\par\fi
+	\def\@itemlabel{%
+		\llap{\init@str\number\c@item.\quad}%
+		\def\@itemlabel{}%
+	}%
+	\everypar{\setbox0\lastbox
+		\hangindent\enumerateindent \hangafter\z@
+		\@itemlabel
+	}
+}
+
+\catcode`@=12
