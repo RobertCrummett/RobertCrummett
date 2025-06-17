@@ -1,5 +1,8 @@
-### Math is Cool, and So Are Computers
+### My name is Robert, but feel free to call me Nate
 
-So now you know what I am interested in.
+I am interesting in computers, mathematics, and most of all, mineral exploration geophysics.
+When I am not working, I enjoy working out, running, playing chess, and reading.
 
-Feel free to reach to my [work email](mailto:robert_crummett@mines.edu) if you want to chat.
+### Quotes I enjoy
+
+''Do the arithmetic or be doomed to talk nonsense''
