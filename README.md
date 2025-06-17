@@ -1,7 +1,8 @@
 ### My name is Robert, but feel free to call me Nate
 
-I am interesting in computers, mathematics, and most of all, mineral exploration geophysics.
-When I am not working, I enjoy working out, running, playing chess, and reading.
+I am focused on delivering value in mineral exploration geophysics.
+I am interested in mathematics, computers, and physics.
+I enjoy exercise, chess, and reading.
 
 ### Quotes I enjoy
 
