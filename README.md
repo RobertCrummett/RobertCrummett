@@ -12,6 +12,8 @@ Outside of work, I exercise and read. And that is all I have time for.
 
 > If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
 
+> Make something people want.
+
 ### My past work
 
 My past work is free for download or just perusing on my personal website, [robertcrummett.com](robertcrummett.com)
