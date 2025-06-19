@@ -2,7 +2,7 @@
 
 I am focused on delivering value in mineral exploration geophysics.
 
-Outside of work, I exercise and read. And that is all I have time for.
+Outside of work, I exercise and read. That's about all I have time for.
 
 ### Quotes that make me think
 
