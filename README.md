@@ -17,3 +17,5 @@ My past work is free for download or just perusing on my [personal website](http
 > If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
 
 > Make something people want.
+
+> Total domination takes full concentration in all situations / A solid foundation.
